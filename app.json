@@ -1,5 +1,5 @@
 {
-  "name": "hello",
+  "name": "Happy!",
   "description": "Deploy vless.",
   "keywords": [
     "vless"
@@ -7,7 +7,7 @@
   "env": {
     "UUID": {
       "description": "UUID",
-      "value": "6aaed49b-a994-4fa8-ae11-34993fb688ef"
+      "value": "8a6989d0-857e-4dc5-89dc-8dbe0395844c"
     }
   },
   "website": "https://github.com/gueoome/",
