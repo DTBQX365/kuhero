@@ -6,7 +6,7 @@
 
 端口（port）: 443
 
-傳輸協議： ws
+傳輸協議(tpl)： ws
 
 路徑(path): `/iPhone` 
 
