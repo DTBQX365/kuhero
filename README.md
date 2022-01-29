@@ -1,7 +1,7 @@
 # happy!
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fgueoome%2Fkuhero)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/DTBQX365/kuhero)
 
 
 端口（port）: 443
